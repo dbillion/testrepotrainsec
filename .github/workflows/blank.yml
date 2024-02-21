@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo a String
-        run: echo " we feel like boss  when writing commands but we must solve problems to feed our family"
+        run: echo " we feel like boss  when writing commands but we must solve problems to feed our family 🥳🥳🥳"
